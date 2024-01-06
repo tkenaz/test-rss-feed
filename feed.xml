@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Test RSS Feed</title>
+        <link>https://<username>.github.io/test-rss-feed/</link>
+        <description>This is a test RSS feed</description>
+        <item>
+            <title>Test Article 1</title>
+            <link>https://<username>.github.io/test-rss-feed/article1</link>
+            <description>This is the summary of the first test article.</description>
+        </item>
+        <!-- Add more items as needed -->
+    </channel>
+</rss>
